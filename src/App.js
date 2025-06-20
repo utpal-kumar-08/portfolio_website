@@ -6,7 +6,7 @@ function App() {
     <div className="App portfolio-container">
       <header className="portfolio-header">
         <h1>Utpal Kumar</h1>
-        <p className="portfolio-title">Computer Science Student | Aspiring Full-Stack Developer</p>
+        <p className="portfolio-title">Computer Science Student | Aspiring Software Engineer</p>
         <nav className="portfolio-nav">
           <a href="#about">About</a>
           <a href="#education">Education</a>
